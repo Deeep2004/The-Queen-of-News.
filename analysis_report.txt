@@ -1,0 +1,663 @@
+=== Total Headlines Per Category ===
+Category
+POLITICS          16758
+ENTERTAINMENT     10781
+WORLDPOST          5780
+CRIME              4068
+TRAVEL             3252
+SPORTS             3136
+BUSINESS           3070
+WELLNESS           2464
+HEALTHY LIVING     2075
+GREEN              1457
+WEIRD NEWS         1098
+WORLD NEWS          933
+FOOD & DRINK        662
+HOME & LIVING       572
+BLACK VOICES        565
+PARENTING           529
+SCIENCE             487
+MEDIA               455
+IMPACT              432
+QUEER VOICES        397
+MONEY               330
+STYLE & BEAUTY      328
+WOMEN               265
+COMEDY              263
+TECH                258
+RELIGION            247
+EDUCATION           229
+ARTS                155
+ENVIRONMENT         150
+COLLEGE             148
+GOOD NEWS           134
+PARENTS             130
+STYLE               119
+DIVORCE             114
+ARTS & CULTURE      107
+WEDDINGS             98
+FIFTY                67
+CULTURE & ARTS       47
+TASTE                36
+LATINO VOICES        14
+
+=== Top 5 Categories ===
+Category
+POLITICS         16758
+ENTERTAINMENT    10781
+WORLDPOST         5780
+CRIME             4068
+TRAVEL            3252
+
+=== Yearly Trend of Headlines ===
+Year
+2003    3165
+2004    3586
+2005    3654
+2006    3258
+2007    3834
+2008    4093
+2009    3801
+2010    3752
+2011    3899
+2012    4407
+2013    4646
+2014    4039
+2015    3874
+2016    3046
+2017    2409
+2018    2035
+2019    1792
+2020    1999
+2021     921
+
+=== Most Popular Category for Each 5-Year Period ===
+2000: POLITICS (2075 headlines)
+2005: POLITICS (5306 headlines)
+2010: POLITICS (5265 headlines)
+2015: POLITICS (3350 headlines)
+2020: POLITICS (762 headlines)
+
+=== Headline Length Analysis (Per Category) ===
+                     mean  min  max
+Category                           
+ARTS            44.109677   14   64
+ARTS & CULTURE  43.691589   16   64
+BLACK VOICES    40.964602    9   64
+BUSINESS        41.804235    9   69
+COLLEGE         45.898649   25   64
+COMEDY          38.551331    9   64
+CRIME           42.863815    9   64
+CULTURE & ARTS  40.212766   16   62
+DIVORCE         42.631579   16   64
+EDUCATION       42.519651   11   64
+ENTERTAINMENT   37.403302    4   64
+ENVIRONMENT     38.880000   12   64
+FIFTY           41.507463   20   62
+FOOD & DRINK    38.666163    4   64
+GOOD NEWS       39.014925    8   64
+GREEN           40.826356    8   64
+HEALTHY LIVING  41.016867    7   64
+HOME & LIVING   40.711538    8   64
+IMPACT          43.520833   12   64
+LATINO VOICES   41.142857   28   61
+MEDIA           39.145055   11   64
+MONEY           40.960606    8   63
+PARENTING       44.665406   12   66
+PARENTS         41.400000   13   63
+POLITICS        42.171560    6   70
+QUEER VOICES    43.236776   10   64
+RELIGION        44.400810   12   64
+SCIENCE         42.806982   10   64
+SPORTS          41.282207    9   65
+STYLE           37.453782    9   64
+STYLE & BEAUTY  41.628049    6   64
+TASTE           37.750000   19   59
+TECH            44.492248   13   64
+TRAVEL          42.462485    9   67
+WEDDINGS        46.295918   20   64
+WEIRD NEWS      39.466302    4   64
+WELLNESS        42.492289    8   64
+WOMEN           43.350943   11   64
+WORLD NEWS      45.766345   14   68
+WORLDPOST       43.064879    5   64
+
+=== Subcategory Trends ===
+Subcategory
+POLITICS          14091
+ENTERTAINMENT      8552
+WORLDPOST          6372
+BUSINESS           3774
+HEALTHY LIVING     3386
+WELLNESS           2869
+SPORTS             2513
+TRAVEL             2378
+CRIME              2260
+WEIRD NEWS         2186
+WORLD NEWS         2152
+BLACK VOICES       1416
+GREEN              1412
+IMPACT              756
+MEDIA               729
+FOOD & DRINK        617
+COMEDY              579
+QUEER VOICES        554
+PARENTING           526
+MONEY               503
+STYLE & BEAUTY      446
+ENVIRONMENT         410
+SCIENCE             383
+HOME & LIVING       368
+STYLE               347
+PARENTS             342
+WOMEN               335
+TECH                287
+TASTE               247
+GOOD NEWS           236
+EDUCATION           215
+ARTS                197
+RELIGION            142
+ARTS & CULTURE      123
+COLLEGE             118
+DIVORCE             116
+CULTURE & ARTS      113
+WEDDINGS             63
+FIFTY                49
+LATINO VOICES        48
+
+=== Monthly Trends ===
+Month
+1     4677
+2     4947
+3     5606
+4     5035
+5     5417
+6     5103
+7     5455
+8     5663
+9     4874
+10    5370
+11    5349
+12    4714
+
+=== Most Frequent Words by Category ===
+
+QUEER VOICES:
+  sex: 82
+  gay: 73
+  marriage: 47
+  community: 38
+  same: 32
+  drag: 24
+  act: 23
+  over: 22
+  audio: 18
+  meet: 17
+
+POLITICS:
+  over: 828
+  police: 578
+  says: 501
+  court: 471
+  new: 469
+  plan: 442
+  govt: 399
+  rural: 383
+  election: 378
+  council: 355
+
+CRIME:
+  police: 1090
+  man: 1040
+  over: 615
+  charged: 441
+  murder: 419
+  after: 344
+  accused: 322
+  missing: 286
+  court: 280
+  woman: 267
+
+WOMEN:
+  women: 88
+  woman: 65
+  assault: 28
+  sexual: 27
+  female: 14
+  sex: 12
+  jailed: 11
+  more: 11
+  after: 10
+  rape: 10
+
+WEIRD NEWS:
+  man: 316
+  car: 129
+  crash: 96
+  police: 93
+  after: 91
+  over: 64
+  woman: 62
+  truck: 59
+  warning: 52
+  gets: 51
+
+SPORTS:
+  cup: 338
+  win: 303
+  world: 223
+  wins: 183
+  league: 166
+  final: 141
+  coach: 134
+  over: 131
+  open: 125
+  gold: 120
+
+BUSINESS:
+  business: 298
+  market: 222
+  workers: 170
+  jobs: 163
+  company: 125
+  job: 112
+  markets: 103
+  new: 100
+  as: 97
+  bank: 96
+
+HEALTHY LIVING:
+  health: 278
+  mental: 121
+  hospital: 108
+  over: 73
+  fears: 70
+  doctors: 65
+  deaths: 64
+  rates: 60
+  new: 59
+  life: 54
+
+WELLNESS:
+  health: 204
+  study: 134
+  cancer: 103
+  flu: 83
+  new: 79
+  day: 72
+  drug: 71
+  power: 63
+  over: 59
+  changes: 57
+
+STYLE & BEAUTY:
+  face: 31
+  royal: 26
+  shopping: 23
+  fashion: 18
+  dry: 17
+  style: 17
+  photo: 14
+  photos: 14
+  new: 14
+  up: 13
+
+SCIENCE:
+  scientists: 82
+  space: 61
+  research: 47
+  nasa: 39
+  science: 32
+  new: 30
+  solar: 25
+  study: 22
+  mars: 21
+  mission: 21
+
+ENTERTAINMENT:
+  interview: 713
+  new: 347
+  says: 313
+  over: 280
+  after: 224
+  out: 216
+  abc: 197
+  as: 192
+  up: 185
+  from: 169
+
+TRAVEL:
+  australia: 246
+  tourism: 183
+  coast: 180
+  new: 160
+  airport: 139
+  road: 104
+  over: 99
+  island: 96
+  hotel: 94
+  park: 94
+
+GREEN:
+  water: 180
+  climate: 137
+  storm: 87
+  wild: 85
+  dog: 81
+  change: 81
+  farm: 71
+  oil: 70
+  green: 66
+  carbon: 63
+
+PARENTING:
+  children: 93
+  child: 65
+  baby: 62
+  kids: 54
+  parents: 51
+  school: 41
+  family: 34
+  over: 25
+  after: 23
+  babies: 17
+
+FOOD & DRINK:
+  food: 90
+  wine: 74
+  test: 62
+  fruit: 30
+  farmers: 28
+  day: 28
+  regional: 24
+  from: 22
+  market: 21
+  up: 21
+
+WORLDPOST:
+  china: 331
+  minister: 302
+  killed: 250
+  us: 248
+  south: 236
+  over: 204
+  after: 190
+  council: 176
+  attack: 168
+  says: 163
+
+DIVORCE:
+  ex: 55
+  over: 12
+  custody: 11
+  affair: 11
+  split: 9
+  family: 9
+  relationship: 8
+  man: 7
+  divorce: 7
+  from: 6
+
+BLACK VOICES:
+  black: 124
+  police: 64
+  trial: 52
+  african: 27
+  over: 26
+  lee: 26
+  protest: 25
+  family: 21
+  race: 14
+  south: 14
+
+ARTS:
+  art: 62
+  exhibition: 28
+  opera: 17
+  artists: 14
+  theatre: 13
+  artist: 12
+  indigenous: 11
+  ballet: 9
+  australian: 7
+  sydney: 7
+
+ENVIRONMENT:
+  weather: 69
+  animal: 17
+  gas: 16
+  spill: 8
+  nsw: 8
+  storm: 7
+  green: 7
+  severe: 7
+  warning: 7
+  oil: 6
+
+HOME & LIVING:
+  home: 244
+  clean: 50
+  homes: 46
+  up: 43
+  house: 41
+  sale: 31
+  after: 25
+  new: 25
+  from: 25
+  fire: 24
+
+WORLD NEWS:
+  australia: 322
+  australian: 303
+  north: 72
+  south: 58
+  korea: 54
+  killed: 45
+  attack: 38
+  myanmar: 34
+  says: 33
+  us: 32
+
+EDUCATION:
+  school: 85
+  education: 82
+  students: 38
+  teachers: 30
+  schools: 20
+  teacher: 16
+  public: 14
+  student: 12
+  high: 11
+  changes: 11
+
+COMEDY:
+  stolen: 60
+  cats: 32
+  christmas: 20
+  from: 18
+  video: 15
+  dogs: 13
+  week: 11
+  bee: 10
+  generations: 9
+  maher: 9
+
+RELIGION:
+  church: 71
+  catholic: 35
+  pope: 33
+  muslim: 21
+  christian: 17
+  abuse: 17
+  faith: 17
+  over: 13
+  easter: 12
+  mosque: 11
+
+MONEY:
+  financial: 58
+  prices: 51
+  money: 48
+  tax: 41
+  credit: 33
+  fees: 16
+  up: 16
+  debt: 15
+  more: 13
+  bank: 12
+
+COLLEGE:
+  college: 39
+  university: 31
+  students: 29
+  campus: 27
+  student: 17
+  uni: 14
+  higher: 8
+  over: 7
+  ag: 6
+  colleges: 6
+
+MEDIA:
+  media: 150
+  news: 121
+  call: 51
+  abc: 50
+  journalists: 21
+  press: 20
+  journalist: 18
+  over: 16
+  newspaper: 16
+  business: 15
+
+IMPACT:
+  help: 60
+  homeless: 35
+  development: 31
+  charity: 24
+  forum: 23
+  youth: 22
+  housing: 19
+  community: 18
+  aid: 17
+  impact: 16
+
+TECH:
+  facebook: 33
+  mobile: 26
+  apple: 26
+  internet: 24
+  phone: 24
+  google: 21
+  new: 18
+  technology: 15
+  online: 13
+  digital: 12
+
+GOOD NEWS:
+  rescue: 41
+  after: 27
+  boy: 18
+  rescued: 16
+  hospital: 15
+  man: 13
+  helps: 13
+  teen: 10
+  dog: 8
+  from: 7
+
+STYLE:
+  looks: 16
+  up: 11
+  line: 9
+  sale: 9
+  weather: 9
+  fall: 8
+  way: 7
+  hot: 7
+  more: 6
+  new: 6
+
+PARENTS:
+  kids: 22
+  parents: 21
+  toddler: 18
+  baby: 18
+  after: 11
+  hospital: 11
+  son: 9
+  school: 8
+  dad: 8
+  from: 8
+
+WEDDINGS:
+  proposal: 39
+  wedding: 19
+  marriage: 18
+  couple: 6
+  love: 4
+  over: 4
+  engagement: 4
+  sex: 4
+  mine: 3
+  back: 3
+
+FIFTY:
+  retirement: 33
+  50: 13
+  years: 8
+  age: 6
+  announces: 6
+  aged: 6
+  village: 6
+  older: 6
+  care: 4
+  60: 3
+
+TASTE:
+  make: 13
+  meat: 3
+  waste: 3
+  grandstand: 3
+  breakfast: 3
+  easy: 2
+  super: 2
+  up: 2
+  turn: 2
+  free: 2
+
+ARTS & CULTURE:
+  artist: 23
+  book: 19
+  prize: 16
+  photographer: 12
+  museum: 11
+  art: 8
+  hamilton: 8
+  author: 7
+  books: 6
+  into: 5
+
+CULTURE & ARTS:
+  arts: 22
+  gallery: 13
+  art: 10
+  festival: 6
+  2013: 6
+  exhibition: 6
+  perth: 3
+  quarter: 3
+  image: 2
+  sought: 2
+
+LATINO VOICES:
+  spanish: 7
+  us: 2
+  mexican: 2
+  down: 2
+  illegal: 2
+  immigrants: 2
+  over: 2
+  puerto: 2
+  breached: 1
+  order: 1
